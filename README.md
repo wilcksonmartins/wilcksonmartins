@@ -1,7 +1,5 @@
 ### Ola Sou Wilckson Martins 
-- 🔭 Trabalho com Front-end
-- 🌱 Estou Estudando Javascript
-
+- 🌱 Estou Estudando Python
 <div align="center">
   <a href="https://github.com/wilcksonmartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wilcksonmartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
